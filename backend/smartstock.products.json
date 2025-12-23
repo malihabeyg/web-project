@@ -1,0 +1,259 @@
+[{
+  "_id": {
+    "$oid": "693e7ae2a64e06c93c01b67f"
+  },
+  "name": "Wireless Bluetooth Headphones",
+  "sku": "ELEC-001",
+  "category": "Electronics",
+  "price": 5499,
+  "stock": 21,
+  "minStock": 10,
+  "supplier": "TechZone Pvt Ltd",
+  "description": "Over-ear wireless headphones with noise cancellation",
+  "barcode": "8901234567890",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-12-22T19:41:36.343Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-23T07:03:58.486Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693e7aefa64e06c93c01b681"
+  },
+  "name": "Men Cotton T-Shirt",
+  "sku": "CLOTH-002",
+  "category": "Clothing",
+  "price": 1499,
+  "stock": 92,
+  "minStock": 20,
+  "supplier": "Urban Wear Suppliers",
+  "description": "Premium quality cotton t-shirt, slim fit",
+  "barcode": "8909876543210",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-12-22T19:57:31.185Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-23T07:10:34.351Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693e7afba64e06c93c01b683"
+  },
+  "name": "JavaScript Programming Book",
+  "sku": "BOOK-004",
+  "category": "Books",
+  "price": 2200,
+  "stock": 4,
+  "minStock": 5,
+  "supplier": "Knowledge Hub",
+  "description": "Beginner to advanced JavaScript programming guide",
+  "barcode": "8923456789012",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-12-22T19:27:31.956Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-22T19:31:19.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693e7b09a64e06c93c01b685"
+  },
+  "name": "Stainless Steel Water Bottle",
+  "sku": "HOME-005",
+  "category": "Home & Garden",
+  "price": 999,
+  "stock": 49,
+  "minStock": 10,
+  "supplier": "Home Essentials Co",
+  "description": "1 liter stainless steel insulated water bottle",
+  "barcode": "8934567890123",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-12-22T19:05:46.208Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-22T19:05:53.886Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693e7b27a64e06c93c01b687"
+  },
+  "name": "Organic Basmati Rice 5kg",
+  "sku": "FOOD-003",
+  "category": "Food",
+  "price": 2899,
+  "stock": 54,
+  "minStock": 15,
+  "supplier": "Green Farms Pakistan",
+  "description": "Premium long-grain organic basmati rice",
+  "barcode": "8912345678901",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-12-22T20:49:13.935Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-22T20:49:46.691Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693ec87794533f453ff3b796"
+  },
+  "name": "hairbands",
+  "sku": "CLOTH-220",
+  "category": "Clothing",
+  "price": 150,
+  "stock": 2,
+  "minStock": 10,
+  "supplier": "ABC",
+  "description": "",
+  "barcode": "NMS902673",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-12-14T14:23:51.449Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-22T19:41:09.498Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693ec8c594533f453ff3b7c0"
+  },
+  "name": "HTML CSS JS BASICS",
+  "sku": "BOOK-256",
+  "category": "Books",
+  "price": 1500,
+  "stock": 0,
+  "minStock": 10,
+  "supplier": "BCD",
+  "description": "",
+  "barcode": "NMS902674",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-12-14T14:25:09.775Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T14:25:09.776Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6947b1ef6cf90d08ba5be366"
+  },
+  "name": "HTML CSS JS BASICS BOOK",
+  "sku": "BOOK-257",
+  "category": "Books",
+  "price": 450,
+  "stock": 0,
+  "minStock": 10,
+  "supplier": "ABC",
+  "description": "",
+  "barcode": "12345",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-12-21T08:38:07.712Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-22T19:50:11.427Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69484ebae1d7fb636e73f2d9"
+  },
+  "name": "cushion",
+  "sku": "HOME-112",
+  "category": "Home & Garden",
+  "price": 500,
+  "stock": 14,
+  "minStock": 10,
+  "supplier": "BCD",
+  "description": "",
+  "barcode": "NMS902674",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-12-21T19:47:06.364Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-22T20:44:31.951Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69497692d2b45aa2b64a4504"
+  },
+  "name": "mobile",
+  "sku": "ELEC-123",
+  "category": "Electronics",
+  "price": 150000,
+  "stock": 0,
+  "minStock": 10,
+  "supplier": "APPLE",
+  "description": "",
+  "barcode": "NMS902675",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-12-22T16:49:23.008Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-22T19:35:43.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6949a285d2b45aa2b64a4a25"
+  },
+  "name": "apple",
+  "sku": "FOOD-220",
+  "category": "Food",
+  "price": 1500,
+  "stock": 1,
+  "minStock": 10,
+  "supplier": "BCD",
+  "description": "",
+  "barcode": "NMS902674",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-12-22T19:56:53.983Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-22T20:24:26.582Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694a42f23110ea57eccbf75b"
+  },
+  "name": "ketchup",
+  "sku": "FOOD-230",
+  "category": "Food",
+  "price": 499.99,
+  "stock": 24,
+  "minStock": 10,
+  "supplier": "youngs",
+  "description": "",
+  "barcode": "NMS902675",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-12-23T07:21:22.720Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-23T07:24:12.598Z"
+  },
+  "__v": 0
+}]

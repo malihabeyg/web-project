@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "69492b143884ba166122e7bf"
+  },
+  "name": "maliha baig",
+  "email": "malihabaig2@gmail.com",
+  "password": "$2b$12$iGgYpTmTFB2bwSXVH4r3L.4oMtnOHdLlR3U0sA4N49g2RCfBkxP6m",
+  "createdAt": {
+    "$date": "2025-12-22T11:27:16.480Z"
+  },
+  "__v": 0
+}]

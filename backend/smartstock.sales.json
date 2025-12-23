@@ -1,0 +1,148 @@
+[{
+  "_id": {
+    "$oid": "69498cedd2b45aa2b64a45e6"
+  },
+  "customer": {
+    "$oid": "693ec9b694533f453ff3b7fd"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "69497692d2b45aa2b64a4504"
+      },
+      "quantity": 1,
+      "unitPrice": 150000,
+      "subtotal": 150000,
+      "_id": {
+        "$oid": "69498cedd2b45aa2b64a45e7"
+      }
+    }
+  ],
+  "subtotal": 150000,
+  "tax": 4,
+  "discount": 499,
+  "total": 149505,
+  "paymentMethod": "Cash",
+  "paymentStatus": "Paid",
+  "staffMember": "Admin",
+  "notes": "",
+  "saleDate": {
+    "$date": "2025-12-22T18:24:45.303Z"
+  },
+  "createdAt": {
+    "$date": "2025-12-22T18:24:45.303Z"
+  },
+  "saleNumber": "SALE-20251222-0001",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694a3ede3110ea57ecc5de32"
+  },
+  "customer": {
+    "$oid": "69499624d2b45aa2b64a46bd"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "693e7ae2a64e06c93c01b67f"
+      },
+      "quantity": 1,
+      "unitPrice": 5499,
+      "subtotal": 5499,
+      "_id": {
+        "$oid": "694a3ede3110ea57ecc5de33"
+      }
+    }
+  ],
+  "subtotal": 5499,
+  "tax": 0,
+  "discount": 0,
+  "total": 5499,
+  "paymentMethod": "Credit Card",
+  "paymentStatus": "Paid",
+  "staffMember": "Admin",
+  "notes": "",
+  "saleDate": {
+    "$date": "2025-12-23T07:03:58.509Z"
+  },
+  "createdAt": {
+    "$date": "2025-12-23T07:03:58.509Z"
+  },
+  "saleNumber": "SALE-20251223-0001",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694a406a3110ea57ecc60f97"
+  },
+  "customer": {
+    "$oid": "693ec9b694533f453ff3b7fd"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "693e7aefa64e06c93c01b681"
+      },
+      "quantity": 6,
+      "unitPrice": 1499,
+      "subtotal": 8994,
+      "_id": {
+        "$oid": "694a406a3110ea57ecc60f98"
+      }
+    }
+  ],
+  "subtotal": 8994,
+  "tax": 0,
+  "discount": 0,
+  "total": 8994,
+  "paymentMethod": "Credit Card",
+  "paymentStatus": "Paid",
+  "staffMember": "Admin",
+  "notes": "",
+  "saleDate": {
+    "$date": "2025-12-23T07:10:34.362Z"
+  },
+  "createdAt": {
+    "$date": "2025-12-23T07:10:34.363Z"
+  },
+  "saleNumber": "SALE-20251223-0002",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694a439c3110ea57eccd11e6"
+  },
+  "customer": {
+    "$oid": "693ec9b694533f453ff3b7fd"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "694a42f23110ea57eccbf75b"
+      },
+      "quantity": 1,
+      "unitPrice": 499.99,
+      "subtotal": 499.99,
+      "_id": {
+        "$oid": "694a439c3110ea57eccd11e7"
+      }
+    }
+  ],
+  "subtotal": 499.99,
+  "tax": 0,
+  "discount": 10,
+  "total": 489.99,
+  "paymentMethod": "Debit Card",
+  "paymentStatus": "Paid",
+  "staffMember": "Admin",
+  "notes": "",
+  "saleDate": {
+    "$date": "2025-12-23T07:24:12.628Z"
+  },
+  "createdAt": {
+    "$date": "2025-12-23T07:24:12.628Z"
+  },
+  "saleNumber": "SALE-20251223-0003",
+  "__v": 0
+}]

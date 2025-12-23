@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "693ec9b694533f453ff3b7fd"
+  },
+  "name": "Maliha Baig",
+  "email": "malihabaig23@gmail.com",
+  "phone": "03172571820",
+  "address": {
+    "street": "BAHARDABAD",
+    "city": "Karachi",
+    "state": "karachi",
+    "zipCode": "74800",
+    "country": "Pakistan"
+  },
+  "loyaltyPoints": 15897,
+  "totalSpent": 158988.99,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-12-14T14:29:10.387Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-23T07:24:12.731Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69484f17e1d7fb636e73f2eb"
+  },
+  "name": "maryam bibi",
+  "email": "maryam@gmail.com",
+  "phone": "03122545891",
+  "address": {
+    "street": "north",
+    "city": "Karachi",
+    "state": "karachi",
+    "zipCode": "74800",
+    "country": "Pakistan"
+  },
+  "loyaltyPoints": 0,
+  "totalSpent": 0,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-12-21T19:48:39.785Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-21T19:48:39.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69499624d2b45aa2b64a46bd"
+  },
+  "name": "tooba malik",
+  "email": "tooba@yaho.com",
+  "phone": "03172571830",
+  "address": {
+    "street": "gulistan e johar",
+    "city": "Karachi",
+    "state": "karachi",
+    "zipCode": "74800",
+    "country": "Pakistan"
+  },
+  "loyaltyPoints": 549,
+  "totalSpent": 5499,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-12-22T19:04:04.763Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-23T07:03:58.587Z"
+  },
+  "__v": 0
+}]
